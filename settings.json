@@ -1,0 +1,16 @@
+{
+    "git.confirmSync": false,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.presets.foldersAllDefaultIcon": true,
+    "vsicons.presets.jsOfficial": true,
+    "git.autofetch": true,
+    "tslint.autoFixOnSave": true,
+    "window.zoomLevel": 0,
+    "search.smartCase": true,
+    "vsicons.projectDetection.autoReload": true,
+    "numberedBookmarks.navigateThroughAllFiles": "replace",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "breadcrumbs.enabled": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.minimap.enabled": true
+}
